@@ -1,7 +1,7 @@
 # bc_data
 
 ### Background
-This is the project that I worked on during the [BC Data Workshop](http://workshop.bcdata.ca/2018/) in 2018 summer. The Jupyter Notebook functions can not be run because the data is missing. The data is confidential so I don't have access to it either. Due to time constraints, we did not spend time clear up the code so the code is lack of necessary comments and not friendly to read.
+This is the project that I worked on during the [BC Data Workshop](http://workshop.bcdata.ca/2018/) in 2018 summer. The Jupyter Notebook functions can not be run because the data is missing. The data is confidential so I don't have access to it either. Due to time constraints, we did not spend time clearing up the code so the code is lack of necessary comments and not friendly to read.
 
 ### My Contribution
 The main achievement for me including:
